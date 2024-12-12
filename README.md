@@ -728,6 +728,15 @@ const cartSlice = createSlice({
 });
 ```
 
-<!-- redux toolokit
+#### The extraReducers "builder callback" notation
+
+redux toolokit
+
+```js
 important links
-https://www.youtube.com/watch?v=dzPFDI5KKfc -->
+https://www.youtube.com/watch?v=dzPFDI5KKfc
+
+```
+
+<!--
+ -->
